@@ -1,0 +1,19 @@
+{
+  "name": "banks-portfolio",
+  "version": "1.0.0",
+  "description": "Andrew Banks Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Banksandrew16/didactic-garbanzo.git"
+  },
+  "author": "Andrew Banks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Banksandrew16/didactic-garbanzo/issues"
+  },
+  "homepage": "https://github.com/Banksandrew16/didactic-garbanzo#readme"
+}
